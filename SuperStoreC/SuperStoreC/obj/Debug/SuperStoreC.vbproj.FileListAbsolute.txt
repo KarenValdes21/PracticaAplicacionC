@@ -1,0 +1,12 @@
+D:\8 SEMESTRE\base de datos av\Proyecto Base superstore\VB .NET\SuperStoreC\SuperStoreC\bin\Debug\SuperStoreC.exe.config
+D:\8 SEMESTRE\base de datos av\Proyecto Base superstore\VB .NET\SuperStoreC\SuperStoreC\bin\Debug\SuperStoreC.exe
+D:\8 SEMESTRE\base de datos av\Proyecto Base superstore\VB .NET\SuperStoreC\SuperStoreC\bin\Debug\SuperStoreC.pdb
+D:\8 SEMESTRE\base de datos av\Proyecto Base superstore\VB .NET\SuperStoreC\SuperStoreC\bin\Debug\SuperStoreC.xml
+D:\8 SEMESTRE\base de datos av\Proyecto Base superstore\VB .NET\SuperStoreC\SuperStoreC\obj\Debug\SuperStoreC.vbproj.AssemblyReference.cache
+D:\8 SEMESTRE\base de datos av\Proyecto Base superstore\VB .NET\SuperStoreC\SuperStoreC\obj\Debug\SuperStoreC.Form1.resources
+D:\8 SEMESTRE\base de datos av\Proyecto Base superstore\VB .NET\SuperStoreC\SuperStoreC\obj\Debug\SuperStoreC.Resources.resources
+D:\8 SEMESTRE\base de datos av\Proyecto Base superstore\VB .NET\SuperStoreC\SuperStoreC\obj\Debug\SuperStoreC.vbproj.GenerateResource.cache
+D:\8 SEMESTRE\base de datos av\Proyecto Base superstore\VB .NET\SuperStoreC\SuperStoreC\obj\Debug\SuperStoreC.vbproj.CoreCompileInputs.cache
+D:\8 SEMESTRE\base de datos av\Proyecto Base superstore\VB .NET\SuperStoreC\SuperStoreC\obj\Debug\SuperStoreC.exe
+D:\8 SEMESTRE\base de datos av\Proyecto Base superstore\VB .NET\SuperStoreC\SuperStoreC\obj\Debug\SuperStoreC.xml
+D:\8 SEMESTRE\base de datos av\Proyecto Base superstore\VB .NET\SuperStoreC\SuperStoreC\obj\Debug\SuperStoreC.pdb
